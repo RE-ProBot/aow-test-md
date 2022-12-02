@@ -17,7 +17,7 @@ bot(
 					{ id: 'antilink info', text: 'INFO' },
 					{ id: `antilink ${onOrOff}`, text: onOrOff.toUpperCase() },
 				],
-				'Example\nhttps://github.com/lyfe00011/whatsapp-bot-md/wiki/antilink',
+				'Example\nhttps://luna-scripts.com',
 				'Antilink'
 			)
 			return await message.send(button, {}, 'button')
